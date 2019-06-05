@@ -1,0 +1,29 @@
+python.org
+
+화면에 문자열 출력하기
+
+char[acter]
+String
+
+문자열 결합 연산자 : +
+
+
+소수점의 유무
+정수 : fixed point 
+실수 : floating point 
+
+
+import sys
+	sys.maxsize
+
+import turtle
+	turtle.method()
+
+
+turtle 모듈 공식 문서 : https://docs.python.org/3/library/turtle.html
+
+
+화면에 오륜기를 그리고 오륜기 위에 자신의 이름을 나타내시오
+"olympic.py"로 저장하고 자신의 메일이나 클라우드에 저장하세요.
+
+
